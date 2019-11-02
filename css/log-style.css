@@ -1,0 +1,58 @@
+
+
+.paging-navigation {
+	font-family: sans-serif;
+	padding: 1em;
+	background: #fff;
+	background: hsl(0, 0%, 100%);
+}
+
+
+.paging-navigation ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+.paging-navigation li {
+	display: inline;
+}
+
+
+a.page-numbers,
+span.page-numbers {
+	padding: .3em .7em;
+	color: #333;
+	color: hsl(0, 0%, 20%);
+}
+
+
+a:hover.page-numbers {
+	color: #000;
+	color: hsl(0, 0%, 0%);
+}
+
+
+.paging-navigation .current {
+	font-weight: bold;
+	color: #000;
+	color: hsl(0, 0%, 0%);
+}
+
+.td-log {
+    padding: 20px;
+    border: 1px solid black;
+}
+.table-log {
+    
+    margin: 0 auto;
+     width:100%;
+     margin-top:50px;
+     margin-bottom:50px;
+}
+.log {
+    text-align:center;
+    width:70%;
+    margin:0 auto;
+}
